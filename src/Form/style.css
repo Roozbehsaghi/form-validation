@@ -1,0 +1,32 @@
+.main {
+  padding: 5%;
+  text-align: center;
+}
+
+input {
+  padding: 1%;
+  width: 50%;
+  margin: 1% 2%;
+}
+
+button {
+  font-weight: bold;
+  background: red;
+  border: none;
+  color: white;
+  padding: 1%;
+}
+
+.errorOn {
+  padding: 3rem;
+  color: red;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.errorOff {
+  padding: 3rem;
+  color: green;
+  font-size: 15px;
+  font-weight: 500;
+}
